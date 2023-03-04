@@ -11,8 +11,8 @@ export default function Home() {
 
       <>
         <Head>
-          <title>WhatSend</title>
-          <meta name="description" content="Send WhatsApp Messages to numbers without saving into contacts" />
+          <title>WhatsUp</title>
+          <meta name="description" content="Send Instant Message to new WhatsApp contacts without saving them!" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
